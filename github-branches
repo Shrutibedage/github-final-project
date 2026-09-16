@@ -1,3 +1,4 @@
- bug-fix-revert e5e0757 Revert typo fix in README
+ C:\Users\shrut\Desktop\mcino-Introduction-to-Git-and-GitHub>git branch -vv
+ bug-fix-revert e5e0757 [origin/bug-fix-revert] Revert typo fix in README
   bug-fix-typo   c2c683f Fix typo in README footer
-  main           c2c683f [ahead 1] Fix typo in README footer
+  main           c2c683f [origin/main: ahead 1] Fix typo in README footer
