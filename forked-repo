@@ -1,5 +1,3 @@
 curl -s https://github.com/Shrutibedage/mcino-Introduction-to-Git-and-GitHub | findstr /I /C:"forked from"
 
 forked from ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
-forked from <a data-hovercard-type="repository" data-hovercard-url="/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/hovercard" 
-class="Link--inTextBlock" href="/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub">ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub</a>
